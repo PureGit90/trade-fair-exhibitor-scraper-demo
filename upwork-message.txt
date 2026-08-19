@@ -1,8 +1,8 @@
 Read your post and built the actual pipeline before applying instead of describing one. Give it a region and sector and it identifies the relevant trade fairs, pulls exhibitor records into company name, country, official website, and corporate email, then flags anything it cannot verify instead of guessing.
 
-Demo: [LIVE_DEMO_URL_PENDING]
+Demo: https://trade-fair-exhibitor-scraper-demo.streamlit.app/
 Code: https://github.com/PureGit90/trade-fair-exhibitor-scraper-demo
-Screenshot attached: [SCREENSHOT_PENDING]
+Screenshot attached.
 
 I work with Octoparse and Browse AI for directory extraction like this, and Apify when a fair's site needs a heavier scrape. Output lands in a clean Excel file with exactly the four fields you listed, ready for your Drive folder.
 

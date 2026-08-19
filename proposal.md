@@ -1,14 +1,14 @@
 # Proposal - Web Data Extraction Specialist
 
 **Job URL:** https://www.upwork.com/jobs/~022089992682519595507
-**Live demo:** [LIVE_DEMO_URL_PENDING]
+**Live demo:** https://trade-fair-exhibitor-scraper-demo.streamlit.app/
 **Repo:** https://github.com/PureGit90/trade-fair-exhibitor-scraper-demo
 
 ---
 
 ## 1. Demo Link (line 1)
 
-**Live demo: [LIVE_DEMO_URL_PENDING]**
+**Live demo: https://trade-fair-exhibitor-scraper-demo.streamlit.app/**
 Built a working version of the exact monthly deliverable described in the post: pick a region
 and sector, it identifies the relevant trade fairs, pulls exhibitor records with the four
 required fields, flags anything it can't verify instead of guessing, and outputs the Excel file
@@ -30,7 +30,7 @@ website / corporate email, and a clean Excel file out.
   review" view so nothing silently disappears
 - Produces a two-sheet Excel export: clean records ready to upload, plus a flagged sheet with
   the reason for each hold
-- Screenshot attached: [SCREENSHOT_PENDING]
+- Screenshot attached
 
 ## 4. Architecture
 
